@@ -1,0 +1,11 @@
+C:\Users\welta\PycharmProjects\IRS\SearchEngineRC\SearchEngine\SearchEngine\bin\Release\SearchEngine.exe.config
+C:\Users\welta\PycharmProjects\IRS\SearchEngineRC\SearchEngine\SearchEngine\bin\Release\SearchEngine.exe
+C:\Users\welta\PycharmProjects\IRS\SearchEngineRC\SearchEngine\SearchEngine\bin\Release\SearchEngine.pdb
+C:\Users\welta\PycharmProjects\IRS\SearchEngineRC\SearchEngine\SearchEngine\obj\Release\SearchEngine.csprojResolveAssemblyReference.cache
+C:\Users\welta\PycharmProjects\IRS\SearchEngineRC\SearchEngine\SearchEngine\obj\Release\SearchEngine.DictionaryDialog.resources
+C:\Users\welta\PycharmProjects\IRS\SearchEngineRC\SearchEngine\SearchEngine\obj\Release\SearchEngine.StartDialog.resources
+C:\Users\welta\PycharmProjects\IRS\SearchEngineRC\SearchEngine\SearchEngine\obj\Release\SearchEngine.Properties.Resources.resources
+C:\Users\welta\PycharmProjects\IRS\SearchEngineRC\SearchEngine\SearchEngine\obj\Release\SearchEngine.csproj.GenerateResource.Cache
+C:\Users\welta\PycharmProjects\IRS\SearchEngineRC\SearchEngine\SearchEngine\obj\Release\SearchEngine.csproj.CoreCompileInputs.cache
+C:\Users\welta\PycharmProjects\IRS\SearchEngineRC\SearchEngine\SearchEngine\obj\Release\SearchEngine.exe
+C:\Users\welta\PycharmProjects\IRS\SearchEngineRC\SearchEngine\SearchEngine\obj\Release\SearchEngine.pdb

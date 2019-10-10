@@ -1,0 +1,230 @@
+C:\Users\welta\source\repos\SearchEngine\SearchEngine\bin\Debug\SearchEngine.exe.config
+C:\Users\welta\source\repos\SearchEngine\SearchEngine\bin\Debug\SearchEngine.exe
+C:\Users\welta\source\repos\SearchEngine\SearchEngine\bin\Debug\SearchEngine.pdb
+C:\Users\welta\source\repos\SearchEngine\SearchEngine\obj\Debug\SearchEngine.csprojResolveAssemblyReference.cache
+C:\Users\welta\source\repos\SearchEngine\SearchEngine\obj\Debug\SearchEngine.Properties.Resources.resources
+C:\Users\welta\source\repos\SearchEngine\SearchEngine\obj\Debug\SearchEngine.csproj.GenerateResource.Cache
+C:\Users\welta\source\repos\SearchEngine\SearchEngine\obj\Debug\SearchEngine.csproj.CoreCompileInputs.cache
+C:\Users\welta\source\repos\SearchEngine\SearchEngine\obj\Debug\SearchEngine.exe
+C:\Users\welta\source\repos\SearchEngine\SearchEngine\obj\Debug\SearchEngine.pdb
+C:\Users\welta\source\repos\SearchEngine\SearchEngine\obj\Debug\SearchEngine.Form1.resources
+C:\Users\welta\Desktop\ir\SearchEngine v001\SearchEngine\SearchEngine\bin\Debug\SearchEngine.exe.config
+C:\Users\welta\Desktop\ir\SearchEngine v001\SearchEngine\SearchEngine\bin\Debug\SearchEngine.exe
+C:\Users\welta\Desktop\ir\SearchEngine v001\SearchEngine\SearchEngine\bin\Debug\SearchEngine.pdb
+C:\Users\welta\Desktop\ir\SearchEngine v001\SearchEngine\SearchEngine\obj\Debug\SearchEngine.csprojAssemblyReference.cache
+C:\Users\welta\Desktop\ir\SearchEngine v001\SearchEngine\SearchEngine\obj\Debug\SearchEngine.Form1.resources
+C:\Users\welta\Desktop\ir\SearchEngine v001\SearchEngine\SearchEngine\obj\Debug\SearchEngine.Properties.Resources.resources
+C:\Users\welta\Desktop\ir\SearchEngine v001\SearchEngine\SearchEngine\obj\Debug\SearchEngine.csproj.GenerateResource.cache
+C:\Users\welta\Desktop\ir\SearchEngine v001\SearchEngine\SearchEngine\obj\Debug\SearchEngine.csproj.CoreCompileInputs.cache
+C:\Users\welta\Desktop\ir\SearchEngine v001\SearchEngine\SearchEngine\obj\Debug\SearchEngine.exe
+C:\Users\welta\Desktop\ir\SearchEngine v001\SearchEngine\SearchEngine\obj\Debug\SearchEngine.pdb
+C:\Users\welta\PycharmProjects\IRS\SearchEngine v002\SearchEngine\SearchEngine\bin\Debug\SearchEngine.exe.config
+C:\Users\welta\PycharmProjects\IRS\SearchEngine v002\SearchEngine\SearchEngine\bin\Debug\SearchEngine.exe
+C:\Users\welta\PycharmProjects\IRS\SearchEngine v002\SearchEngine\SearchEngine\bin\Debug\SearchEngine.pdb
+C:\Users\welta\PycharmProjects\IRS\SearchEngine v002\SearchEngine\SearchEngine\obj\Debug\SearchEngine.csprojResolveAssemblyReference.cache
+C:\Users\welta\PycharmProjects\IRS\SearchEngine v002\SearchEngine\SearchEngine\obj\Debug\SearchEngine.Form1.resources
+C:\Users\welta\PycharmProjects\IRS\SearchEngine v002\SearchEngine\SearchEngine\obj\Debug\SearchEngine.Properties.Resources.resources
+C:\Users\welta\PycharmProjects\IRS\SearchEngine v002\SearchEngine\SearchEngine\obj\Debug\SearchEngine.csproj.GenerateResource.Cache
+C:\Users\welta\PycharmProjects\IRS\SearchEngine v002\SearchEngine\SearchEngine\obj\Debug\SearchEngine.csproj.CoreCompileInputs.cache
+C:\Users\welta\PycharmProjects\IRS\SearchEngine v002\SearchEngine\SearchEngine\obj\Debug\SearchEngine.exe
+C:\Users\welta\PycharmProjects\IRS\SearchEngine v002\SearchEngine\SearchEngine\obj\Debug\SearchEngine.pdb
+C:\Users\welta\Desktop\SearchEnginev003\SearchEngine\SearchEngine\bin\Debug\SearchEngine.exe.config
+C:\Users\welta\Desktop\SearchEnginev003\SearchEngine\SearchEngine\bin\Debug\SearchEngine.exe
+C:\Users\welta\Desktop\SearchEnginev003\SearchEngine\SearchEngine\bin\Debug\SearchEngine.pdb
+C:\Users\welta\Desktop\SearchEnginev003\SearchEngine\SearchEngine\obj\Debug\SearchEngine.csprojAssemblyReference.cache
+C:\Users\welta\Desktop\SearchEnginev003\SearchEngine\SearchEngine\obj\Debug\SearchEngine.Form1.resources
+C:\Users\welta\Desktop\SearchEnginev003\SearchEngine\SearchEngine\obj\Debug\SearchEngine.Properties.Resources.resources
+C:\Users\welta\Desktop\SearchEnginev003\SearchEngine\SearchEngine\obj\Debug\SearchEngine.csproj.GenerateResource.cache
+C:\Users\welta\Desktop\SearchEnginev003\SearchEngine\SearchEngine\obj\Debug\SearchEngine.csproj.CoreCompileInputs.cache
+C:\Users\welta\Desktop\SearchEnginev003\SearchEngine\SearchEngine\obj\Debug\SearchEngine.exe
+C:\Users\welta\Desktop\SearchEnginev003\SearchEngine\SearchEngine\obj\Debug\SearchEngine.pdb
+C:\Users\alexs\Downloads\SearchEngine v004\SearchEngine\SearchEngine\bin\Debug\SearchEngine.exe.config
+C:\Users\alexs\Downloads\SearchEngine v004\SearchEngine\SearchEngine\obj\Debug\SearchEngine.exe
+C:\Users\alexs\Downloads\SearchEngine v004\SearchEngine\SearchEngine\obj\Debug\SearchEngine.pdb
+C:\Users\alexs\Downloads\SearchEngine v004\SearchEngine\SearchEngine\obj\Debug\SearchEngine.csprojResolveAssemblyReference.cache
+C:\Users\alexs\Downloads\SearchEngine v004\SearchEngine\SearchEngine\obj\Debug\SearchEngine.Form1.resources
+C:\Users\alexs\Downloads\SearchEngine v004\SearchEngine\SearchEngine\obj\Debug\SearchEngine.Properties.Resources.resources
+C:\Users\alexs\Downloads\SearchEngine v004\SearchEngine\SearchEngine\obj\Debug\SearchEngine.csproj.GenerateResource.Cache
+C:\Users\alexs\Downloads\SearchEngine v004\SearchEngine\SearchEngine\bin\Debug\SearchEngine.exe
+C:\Users\alexs\Downloads\SearchEngine v004\SearchEngine\SearchEngine\bin\Debug\SearchEngine.pdb
+C:\Users\welta\PycharmProjects\IRS\SearchEngine v004\SearchEngine v004\SearchEngine\SearchEngine\bin\Debug\SearchEngine.exe.config
+C:\Users\welta\PycharmProjects\IRS\SearchEngine v004\SearchEngine v004\SearchEngine\SearchEngine\bin\Debug\SearchEngine.exe
+C:\Users\welta\PycharmProjects\IRS\SearchEngine v004\SearchEngine v004\SearchEngine\SearchEngine\bin\Debug\SearchEngine.pdb
+C:\Users\welta\PycharmProjects\IRS\SearchEngine v004\SearchEngine v004\SearchEngine\SearchEngine\obj\Debug\SearchEngine.csprojResolveAssemblyReference.cache
+C:\Users\welta\PycharmProjects\IRS\SearchEngine v004\SearchEngine v004\SearchEngine\SearchEngine\obj\Debug\SearchEngine.Form1.resources
+C:\Users\welta\PycharmProjects\IRS\SearchEngine v004\SearchEngine v004\SearchEngine\SearchEngine\obj\Debug\SearchEngine.Properties.Resources.resources
+C:\Users\welta\PycharmProjects\IRS\SearchEngine v004\SearchEngine v004\SearchEngine\SearchEngine\obj\Debug\SearchEngine.csproj.GenerateResource.Cache
+C:\Users\welta\PycharmProjects\IRS\SearchEngine v004\SearchEngine v004\SearchEngine\SearchEngine\obj\Debug\SearchEngine.csproj.CoreCompileInputs.cache
+C:\Users\welta\PycharmProjects\IRS\SearchEngine v004\SearchEngine v004\SearchEngine\SearchEngine\obj\Debug\SearchEngine.exe
+C:\Users\welta\PycharmProjects\IRS\SearchEngine v004\SearchEngine v004\SearchEngine\SearchEngine\obj\Debug\SearchEngine.pdb
+C:\Users\welta\Desktop\SearchEngine v005\SearchEngine\SearchEngine\bin\Debug\SearchEngine.exe.config
+C:\Users\welta\Desktop\SearchEngine v005\SearchEngine\SearchEngine\bin\Debug\SearchEngine.exe
+C:\Users\welta\Desktop\SearchEngine v005\SearchEngine\SearchEngine\bin\Debug\SearchEngine.pdb
+C:\Users\welta\Desktop\SearchEngine v005\SearchEngine\SearchEngine\obj\Debug\SearchEngine.csprojAssemblyReference.cache
+C:\Users\welta\Desktop\SearchEngine v005\SearchEngine\SearchEngine\obj\Debug\SearchEngine.StartDialog.resources
+C:\Users\welta\Desktop\SearchEngine v005\SearchEngine\SearchEngine\obj\Debug\SearchEngine.Properties.Resources.resources
+C:\Users\welta\Desktop\SearchEngine v005\SearchEngine\SearchEngine\obj\Debug\SearchEngine.csproj.GenerateResource.cache
+C:\Users\welta\Desktop\SearchEngine v005\SearchEngine\SearchEngine\obj\Debug\SearchEngine.csproj.CoreCompileInputs.cache
+C:\Users\welta\Desktop\SearchEngine v005\SearchEngine\SearchEngine\obj\Debug\SearchEngine.exe
+C:\Users\welta\Desktop\SearchEngine v005\SearchEngine\SearchEngine\obj\Debug\SearchEngine.pdb
+C:\Users\welta\Desktop\SearchEngine v005\SearchEngine\SearchEngine\obj\Debug\SearchEngine.DictionaryDialog.resources
+C:\Users\welta\PycharmProjects\IRS\SearchEngineRC\SearchEngine\SearchEngine\bin\Debug\SearchEngine.exe.config
+C:\Users\welta\PycharmProjects\IRS\SearchEngineRC\SearchEngine\SearchEngine\bin\Debug\SearchEngine.exe
+C:\Users\welta\PycharmProjects\IRS\SearchEngineRC\SearchEngine\SearchEngine\bin\Debug\SearchEngine.pdb
+C:\Users\welta\PycharmProjects\IRS\SearchEngineRC\SearchEngine\SearchEngine\obj\Debug\SearchEngine.csprojResolveAssemblyReference.cache
+C:\Users\welta\PycharmProjects\IRS\SearchEngineRC\SearchEngine\SearchEngine\obj\Debug\SearchEngine.DictionaryDialog.resources
+C:\Users\welta\PycharmProjects\IRS\SearchEngineRC\SearchEngine\SearchEngine\obj\Debug\SearchEngine.StartDialog.resources
+C:\Users\welta\PycharmProjects\IRS\SearchEngineRC\SearchEngine\SearchEngine\obj\Debug\SearchEngine.Properties.Resources.resources
+C:\Users\welta\PycharmProjects\IRS\SearchEngineRC\SearchEngine\SearchEngine\obj\Debug\SearchEngine.csproj.GenerateResource.Cache
+C:\Users\welta\PycharmProjects\IRS\SearchEngineRC\SearchEngine\SearchEngine\obj\Debug\SearchEngine.csproj.CoreCompileInputs.cache
+C:\Users\welta\PycharmProjects\IRS\SearchEngineRC\SearchEngine\SearchEngine\obj\Debug\SearchEngine.exe
+C:\Users\welta\PycharmProjects\IRS\SearchEngineRC\SearchEngine\SearchEngine\obj\Debug\SearchEngine.pdb
+C:\Users\welta\Desktop\IR HW P1\SourceCode\SearchEngine\SearchEngine\bin\Debug\SearchEngine.exe.config
+C:\Users\welta\Desktop\IR HW P1\SourceCode\SearchEngine\SearchEngine\bin\Debug\SearchEngine.exe
+C:\Users\welta\Desktop\IR HW P1\SourceCode\SearchEngine\SearchEngine\bin\Debug\SearchEngine.pdb
+C:\Users\welta\Desktop\IR HW P1\SourceCode\SearchEngine\SearchEngine\obj\Debug\SearchEngine.csprojResolveAssemblyReference.cache
+C:\Users\welta\Desktop\IR HW P1\SourceCode\SearchEngine\SearchEngine\obj\Debug\SearchEngine.DictionaryDialog.resources
+C:\Users\welta\Desktop\IR HW P1\SourceCode\SearchEngine\SearchEngine\obj\Debug\SearchEngine.StartDialog.resources
+C:\Users\welta\Desktop\IR HW P1\SourceCode\SearchEngine\SearchEngine\obj\Debug\SearchEngine.Properties.Resources.resources
+C:\Users\welta\Desktop\IR HW P1\SourceCode\SearchEngine\SearchEngine\obj\Debug\SearchEngine.csproj.GenerateResource.Cache
+C:\Users\welta\Desktop\IR HW P1\SourceCode\SearchEngine\SearchEngine\obj\Debug\SearchEngine.csproj.CoreCompileInputs.cache
+C:\Users\welta\Desktop\IR HW P1\SourceCode\SearchEngine\SearchEngine\obj\Debug\SearchEngine.exe
+C:\Users\welta\Desktop\IR HW P1\SourceCode\SearchEngine\SearchEngine\obj\Debug\SearchEngine.pdb
+C:\Users\Hadar\Desktop\לימודים\סמסטר ז\אחזור\מנוע חלק ב\SearchEngine.v1\SearchEngine\obj\Debug\SearchEngine.csprojAssemblyReference.cache
+C:\Users\Hadar\Desktop\לימודים\סמסטר ז\אחזור\מנוע חלק ב\SearchEngine.v1\SearchEngine\obj\Debug\SearchEngine.DictionaryDialog.resources
+C:\Users\Hadar\Desktop\לימודים\סמסטר ז\אחזור\מנוע חלק ב\SearchEngine.v1\SearchEngine\obj\Debug\SearchEngine.StartDialog.resources
+C:\Users\Hadar\Desktop\לימודים\סמסטר ז\אחזור\מנוע חלק ב\SearchEngine.v1\SearchEngine\obj\Debug\SearchEngine.Properties.Resources.resources
+C:\Users\Hadar\Desktop\לימודים\סמסטר ז\אחזור\מנוע חלק ב\SearchEngine.v1\SearchEngine\obj\Debug\SearchEngine.csproj.GenerateResource.cache
+C:\Users\Hadar\Desktop\לימודים\סמסטר ז\אחזור\מנוע חלק ב\SearchEngine.v1\SearchEngine\obj\Debug\SearchEngine.csproj.CoreCompileInputs.cache
+C:\Users\Hadar\Desktop\לימודים\סמסטר ז\אחזור\מנוע חלק ב\SearchEngine.v1\SearchEngine\obj\Debug\SearchEngine.exe
+C:\Users\Hadar\Desktop\לימודים\סמסטר ז\אחזור\מנוע חלק ב\SearchEngine.v1\SearchEngine\obj\Debug\SearchEngine.pdb
+C:\Users\Hadar\Desktop\לימודים\סמסטר ז\אחזור\מנוע חלק ב\SearchEngine.v1\SearchEngine\bin\Debug\SearchEngine.exe.config
+C:\Users\Hadar\Desktop\לימודים\סמסטר ז\אחזור\מנוע חלק ב\SearchEngine.v1\SearchEngine\bin\Debug\SearchEngine.exe
+C:\Users\Hadar\Desktop\לימודים\סמסטר ז\אחזור\מנוע חלק ב\SearchEngine.v1\SearchEngine\bin\Debug\SearchEngine.pdb
+C:\Users\Hadar\Desktop\לימודים\סמסטר ז\אחזור\מנוע חלק ב\SearchEngine.v1.1\SearchEngine\bin\Debug\SearchEngine.exe.config
+C:\Users\Hadar\Desktop\לימודים\סמסטר ז\אחזור\מנוע חלק ב\SearchEngine.v1.1\SearchEngine\bin\Debug\SearchEngine.exe
+C:\Users\Hadar\Desktop\לימודים\סמסטר ז\אחזור\מנוע חלק ב\SearchEngine.v1.1\SearchEngine\bin\Debug\SearchEngine.pdb
+C:\Users\Hadar\Desktop\לימודים\סמסטר ז\אחזור\מנוע חלק ב\SearchEngine.v1.1\SearchEngine\obj\Debug\SearchEngine.csprojAssemblyReference.cache
+C:\Users\Hadar\Desktop\לימודים\סמסטר ז\אחזור\מנוע חלק ב\SearchEngine.v1.1\SearchEngine\obj\Debug\SearchEngine.DictionaryDialog.resources
+C:\Users\Hadar\Desktop\לימודים\סמסטר ז\אחזור\מנוע חלק ב\SearchEngine.v1.1\SearchEngine\obj\Debug\SearchEngine.StartDialog.resources
+C:\Users\Hadar\Desktop\לימודים\סמסטר ז\אחזור\מנוע חלק ב\SearchEngine.v1.1\SearchEngine\obj\Debug\SearchEngine.Properties.Resources.resources
+C:\Users\Hadar\Desktop\לימודים\סמסטר ז\אחזור\מנוע חלק ב\SearchEngine.v1.1\SearchEngine\obj\Debug\SearchEngine.csproj.GenerateResource.cache
+C:\Users\Hadar\Desktop\לימודים\סמסטר ז\אחזור\מנוע חלק ב\SearchEngine.v1.1\SearchEngine\obj\Debug\SearchEngine.csproj.CoreCompileInputs.cache
+C:\Users\Hadar\Desktop\לימודים\סמסטר ז\אחזור\מנוע חלק ב\SearchEngine.v1.1\SearchEngine\obj\Debug\SearchEngine.exe
+C:\Users\Hadar\Desktop\לימודים\סמסטר ז\אחזור\מנוע חלק ב\SearchEngine.v1.1\SearchEngine\obj\Debug\SearchEngine.pdb
+C:\Users\welta\Desktop\SearchEngine.v2\SearchEngine.v1.1\SearchEngine\obj\Debug\SearchEngine.csprojAssemblyReference.cache
+C:\Users\welta\Desktop\SearchEngine.v2\SearchEngine.v1.1\SearchEngine\obj\Debug\SearchEngine.DictionaryDialog.resources
+C:\Users\welta\Desktop\SearchEngine.v2\SearchEngine.v1.1\SearchEngine\obj\Debug\SearchEngine.StartDialog.resources
+C:\Users\welta\Desktop\SearchEngine.v2\SearchEngine.v1.1\SearchEngine\obj\Debug\SearchEngine.Properties.Resources.resources
+C:\Users\welta\Desktop\SearchEngine.v2\SearchEngine.v1.1\SearchEngine\obj\Debug\SearchEngine.csproj.GenerateResource.cache
+C:\Users\welta\Desktop\SearchEngine.v2\SearchEngine.v1.1\SearchEngine\obj\Debug\SearchEngine.csproj.CoreCompileInputs.cache
+C:\Users\welta\Desktop\SearchEngine.v2\SearchEngine.v1.1\SearchEngine\obj\Debug\SearchEngine.exe
+C:\Users\welta\Desktop\SearchEngine.v2\SearchEngine.v1.1\SearchEngine\obj\Debug\SearchEngine.pdb
+C:\Users\welta\Desktop\SearchEngine.v2\SearchEngine.v1.1\SearchEngine\bin\Debug\SearchEngine.exe.config
+C:\Users\welta\Desktop\SearchEngine.v2\SearchEngine.v1.1\SearchEngine\bin\Debug\SearchEngine.exe
+C:\Users\welta\Desktop\SearchEngine.v2\SearchEngine.v1.1\SearchEngine\bin\Debug\SearchEngine.pdb
+C:\Users\welta\Desktop\SearchEngine.v2\SearchEngine.v1.1\SearchEngine\bin\Debug\GloVe.dll
+C:\Users\welta\Desktop\SearchEngine.v2\SearchEngine.v1.1\SearchEngine\bin\Debug\GloVe.pdb
+C:\Users\welta\Desktop\SearchEngine.v2\SearchEngine.v1.1\SearchEngine\obj\Debug\SearchEngine.csproj.CopyComplete
+C:\Users\AlexS\Desktop\SearchEngine.v1.1\SearchEngine\bin\Debug\SearchEngine.exe.config
+C:\Users\AlexS\Desktop\SearchEngine.v1.1\SearchEngine\bin\Debug\SearchEngine.exe
+C:\Users\AlexS\Desktop\SearchEngine.v1.1\SearchEngine\bin\Debug\SearchEngine.pdb
+C:\Users\AlexS\Desktop\SearchEngine.v1.1\SearchEngine\bin\Debug\GloVe.dll
+C:\Users\AlexS\Desktop\SearchEngine.v1.1\SearchEngine\obj\Debug\SearchEngine.csprojResolveAssemblyReference.cache
+C:\Users\AlexS\Desktop\SearchEngine.v1.1\SearchEngine\obj\Debug\SearchEngine.DictionaryDialog.resources
+C:\Users\AlexS\Desktop\SearchEngine.v1.1\SearchEngine\obj\Debug\SearchEngine.StartDialog.resources
+C:\Users\AlexS\Desktop\SearchEngine.v1.1\SearchEngine\obj\Debug\SearchEngine.Properties.Resources.resources
+C:\Users\AlexS\Desktop\SearchEngine.v1.1\SearchEngine\obj\Debug\SearchEngine.csproj.GenerateResource.Cache
+C:\Users\AlexS\Desktop\SearchEngine.v1.1\SearchEngine\obj\Debug\SearchEngine.csproj.CoreCompileInputs.cache
+C:\Users\AlexS\Desktop\SearchEngine.v1.1\SearchEngine\obj\Debug\SearchEngine.exe
+C:\Users\AlexS\Desktop\SearchEngine.v1.1\SearchEngine\obj\Debug\SearchEngine.pdb
+C:\Users\welta\Desktop\SearchEngine.v1.1\SearchEngine\bin\Debug\SearchEngine.exe.config
+C:\Users\welta\Desktop\SearchEngine.v1.1\SearchEngine\bin\Debug\SearchEngine.exe
+C:\Users\welta\Desktop\SearchEngine.v1.1\SearchEngine\bin\Debug\SearchEngine.pdb
+C:\Users\welta\Desktop\SearchEngine.v1.1\SearchEngine\bin\Debug\GloVe.dll
+C:\Users\welta\Desktop\SearchEngine.v1.1\SearchEngine\obj\Debug\SearchEngine.csprojAssemblyReference.cache
+C:\Users\welta\Desktop\SearchEngine.v1.1\SearchEngine\obj\Debug\SearchEngine.DictionaryDialog.resources
+C:\Users\welta\Desktop\SearchEngine.v1.1\SearchEngine\obj\Debug\SearchEngine.StartDialog.resources
+C:\Users\welta\Desktop\SearchEngine.v1.1\SearchEngine\obj\Debug\SearchEngine.Properties.Resources.resources
+C:\Users\welta\Desktop\SearchEngine.v1.1\SearchEngine\obj\Debug\SearchEngine.csproj.GenerateResource.cache
+C:\Users\welta\Desktop\SearchEngine.v1.1\SearchEngine\obj\Debug\SearchEngine.csproj.CoreCompileInputs.cache
+C:\Users\welta\Desktop\SearchEngine.v1.1\SearchEngine\obj\Debug\SearchEngine.csproj.CopyComplete
+C:\Users\welta\Desktop\SearchEngine.v1.1\SearchEngine\obj\Debug\SearchEngine.exe
+C:\Users\welta\Desktop\SearchEngine.v1.1\SearchEngine\obj\Debug\SearchEngine.pdb
+C:\Users\Hadar\Desktop\לימודים\סמסטר ז\אחזור\מנוע חלק ב\SearchEngine.v2.1\SearchEngine\obj\Debug\SearchEngine.csprojAssemblyReference.cache
+C:\Users\Hadar\Desktop\לימודים\סמסטר ז\אחזור\מנוע חלק ב\SearchEngine.v2.1\SearchEngine\obj\Debug\SearchEngine.DictionaryDialog.resources
+C:\Users\Hadar\Desktop\לימודים\סמסטר ז\אחזור\מנוע חלק ב\SearchEngine.v2.1\SearchEngine\obj\Debug\SearchEngine.SearchResults.resources
+C:\Users\Hadar\Desktop\לימודים\סמסטר ז\אחזור\מנוע חלק ב\SearchEngine.v2.1\SearchEngine\obj\Debug\SearchEngine.StartDialog.resources
+C:\Users\Hadar\Desktop\לימודים\סמסטר ז\אחזור\מנוע חלק ב\SearchEngine.v2.1\SearchEngine\obj\Debug\SearchEngine.Properties.Resources.resources
+C:\Users\Hadar\Desktop\לימודים\סמסטר ז\אחזור\מנוע חלק ב\SearchEngine.v2.1\SearchEngine\obj\Debug\SearchEngine.csproj.GenerateResource.cache
+C:\Users\Hadar\Desktop\לימודים\סמסטר ז\אחזור\מנוע חלק ב\SearchEngine.v2.1\SearchEngine\obj\Debug\SearchEngine.csproj.CoreCompileInputs.cache
+C:\Users\Hadar\Desktop\לימודים\סמסטר ז\אחזור\מנוע חלק ב\SearchEngine.v2.1\SearchEngine\obj\Debug\SearchEngine.exe
+C:\Users\Hadar\Desktop\לימודים\סמסטר ז\אחזור\מנוע חלק ב\SearchEngine.v2.1\SearchEngine\obj\Debug\SearchEngine.pdb
+C:\Users\Hadar\Desktop\לימודים\סמסטר ז\אחזור\מנוע חלק ב\SearchEngine.v2.1\SearchEngine\bin\Debug\SearchEngine.exe.config
+C:\Users\Hadar\Desktop\לימודים\סמסטר ז\אחזור\מנוע חלק ב\SearchEngine.v2.1\SearchEngine\bin\Debug\SearchEngine.exe
+C:\Users\Hadar\Desktop\לימודים\סמסטר ז\אחזור\מנוע חלק ב\SearchEngine.v2.1\SearchEngine\bin\Debug\SearchEngine.pdb
+C:\Users\Hadar\Desktop\לימודים\סמסטר ז\אחזור\מנוע חלק ב\SearchEngine.v2.1\SearchEngine\bin\Debug\GloVe.dll
+C:\Users\Hadar\Desktop\לימודים\סמסטר ז\אחזור\מנוע חלק ב\SearchEngine.v2.1\SearchEngine\obj\Debug\SearchEngine.csproj.CopyComplete
+C:\Users\Hadar\Desktop\לימודים\סמסטר ז\אחזור\מנוע חלק ב\SearchEngine.v2.1\SearchEngine\obj\Debug\SearchEngine.CountrySelectDialog.resources
+C:\Users\Hadar\Desktop\לימודים\סמסטר ז\אחזור\מנוע חלק ב\SearchEngine.v2.1\SearchEngine\obj\Debug\SearchEngine.ViewEntities.resources
+C:\Users\Hadar\Desktop\לימודים\סמסטר ז\אחזור\מנוע חלק ב\SearchEngine.v2.1\SearchEngine\obj\Debug\SearchEngine.ShowReturnedDocuments.resources
+C:\Users\welta\Desktop\SearchEngine.v4\SearchEngine.v2.1\SearchEngine\bin\Debug\SearchEngine.exe.config
+C:\Users\welta\Desktop\SearchEngine.v4\SearchEngine.v2.1\SearchEngine\bin\Debug\SearchEngine.exe
+C:\Users\welta\Desktop\SearchEngine.v4\SearchEngine.v2.1\SearchEngine\bin\Debug\SearchEngine.pdb
+C:\Users\welta\Desktop\SearchEngine.v4\SearchEngine.v2.1\SearchEngine\bin\Debug\GloVe.dll
+C:\Users\welta\Desktop\SearchEngine.v4\SearchEngine.v2.1\SearchEngine\obj\Debug\SearchEngine.csprojAssemblyReference.cache
+C:\Users\welta\Desktop\SearchEngine.v4\SearchEngine.v2.1\SearchEngine\obj\Debug\SearchEngine.CountrySelectDialog.resources
+C:\Users\welta\Desktop\SearchEngine.v4\SearchEngine.v2.1\SearchEngine\obj\Debug\SearchEngine.DictionaryDialog.resources
+C:\Users\welta\Desktop\SearchEngine.v4\SearchEngine.v2.1\SearchEngine\obj\Debug\SearchEngine.SearchResults.resources
+C:\Users\welta\Desktop\SearchEngine.v4\SearchEngine.v2.1\SearchEngine\obj\Debug\SearchEngine.ShowReturnedDocuments.resources
+C:\Users\welta\Desktop\SearchEngine.v4\SearchEngine.v2.1\SearchEngine\obj\Debug\SearchEngine.StartDialog.resources
+C:\Users\welta\Desktop\SearchEngine.v4\SearchEngine.v2.1\SearchEngine\obj\Debug\SearchEngine.Properties.Resources.resources
+C:\Users\welta\Desktop\SearchEngine.v4\SearchEngine.v2.1\SearchEngine\obj\Debug\SearchEngine.ViewEntities.resources
+C:\Users\welta\Desktop\SearchEngine.v4\SearchEngine.v2.1\SearchEngine\obj\Debug\SearchEngine.csproj.GenerateResource.cache
+C:\Users\welta\Desktop\SearchEngine.v4\SearchEngine.v2.1\SearchEngine\obj\Debug\SearchEngine.csproj.CoreCompileInputs.cache
+C:\Users\welta\Desktop\SearchEngine.v4\SearchEngine.v2.1\SearchEngine\obj\Debug\SearchEngine.csproj.CopyComplete
+C:\Users\welta\Desktop\SearchEngine.v4\SearchEngine.v2.1\SearchEngine\obj\Debug\SearchEngine.exe
+C:\Users\welta\Desktop\SearchEngine.v4\SearchEngine.v2.1\SearchEngine\obj\Debug\SearchEngine.pdb
+C:\Users\welta\Desktop\SearchEngine.v4\SearchEngine.v2.1\SearchEngine\bin\Debug\stop_words.txt
+C:\Users\welta\Desktop\SearchEngine.v4\SearchEngine.v2.1\SearchEngine\bin\Debug\glove.6B.100dc.vec
+C:\Users\welta\Desktop\SearchEngine.v4\SearchEngine.v2.1\SearchEngine\bin\Debug\city.txt
+C:\Users\welta\Desktop\ir\SearchEngine.v4A\SearchEngine.v2.1\SearchEngine\bin\Debug\city.txt
+C:\Users\welta\Desktop\ir\SearchEngine.v4A\SearchEngine.v2.1\SearchEngine\bin\Debug\stop_words.txt
+C:\Users\welta\Desktop\ir\SearchEngine.v4A\SearchEngine.v2.1\SearchEngine\bin\Debug\glove.6B.100dc.vec
+C:\Users\welta\Desktop\ir\SearchEngine.v4A\SearchEngine.v2.1\SearchEngine\bin\Debug\SearchEngine.exe.config
+C:\Users\welta\Desktop\ir\SearchEngine.v4A\SearchEngine.v2.1\SearchEngine\bin\Debug\SearchEngine.exe
+C:\Users\welta\Desktop\ir\SearchEngine.v4A\SearchEngine.v2.1\SearchEngine\bin\Debug\SearchEngine.pdb
+C:\Users\welta\Desktop\ir\SearchEngine.v4A\SearchEngine.v2.1\SearchEngine\bin\Debug\GloVe.dll
+C:\Users\welta\Desktop\ir\SearchEngine.v4A\SearchEngine.v2.1\SearchEngine\obj\Debug\SearchEngine.csprojAssemblyReference.cache
+C:\Users\welta\Desktop\ir\SearchEngine.v4A\SearchEngine.v2.1\SearchEngine\obj\Debug\SearchEngine.CountrySelectDialog.resources
+C:\Users\welta\Desktop\ir\SearchEngine.v4A\SearchEngine.v2.1\SearchEngine\obj\Debug\SearchEngine.DictionaryDialog.resources
+C:\Users\welta\Desktop\ir\SearchEngine.v4A\SearchEngine.v2.1\SearchEngine\obj\Debug\SearchEngine.SearchResults.resources
+C:\Users\welta\Desktop\ir\SearchEngine.v4A\SearchEngine.v2.1\SearchEngine\obj\Debug\SearchEngine.ShowReturnedDocuments.resources
+C:\Users\welta\Desktop\ir\SearchEngine.v4A\SearchEngine.v2.1\SearchEngine\obj\Debug\SearchEngine.StartDialog.resources
+C:\Users\welta\Desktop\ir\SearchEngine.v4A\SearchEngine.v2.1\SearchEngine\obj\Debug\SearchEngine.Properties.Resources.resources
+C:\Users\welta\Desktop\ir\SearchEngine.v4A\SearchEngine.v2.1\SearchEngine\obj\Debug\SearchEngine.ViewEntities.resources
+C:\Users\welta\Desktop\ir\SearchEngine.v4A\SearchEngine.v2.1\SearchEngine\obj\Debug\SearchEngine.csproj.GenerateResource.cache
+C:\Users\welta\Desktop\ir\SearchEngine.v4A\SearchEngine.v2.1\SearchEngine\obj\Debug\SearchEngine.csproj.CoreCompileInputs.cache
+C:\Users\welta\Desktop\ir\SearchEngine.v4A\SearchEngine.v2.1\SearchEngine\obj\Debug\SearchEngine.csproj.CopyComplete
+C:\Users\welta\Desktop\ir\SearchEngine.v4A\SearchEngine.v2.1\SearchEngine\obj\Debug\SearchEngine.exe
+C:\Users\welta\Desktop\ir\SearchEngine.v4A\SearchEngine.v2.1\SearchEngine\obj\Debug\SearchEngine.pdb
+C:\Users\Hadar\Desktop\SearchEngine\SearchEngine\bin\Debug\city.txt
+C:\Users\Hadar\Desktop\SearchEngine\SearchEngine\bin\Debug\stop_words.txt
+C:\Users\Hadar\Desktop\SearchEngine\SearchEngine\bin\Debug\glove.6B.100dc.vec
+C:\Users\Hadar\Desktop\SearchEngine\SearchEngine\bin\Debug\SearchEngine.exe.config
+C:\Users\Hadar\Desktop\SearchEngine\SearchEngine\bin\Debug\SearchEngine.exe
+C:\Users\Hadar\Desktop\SearchEngine\SearchEngine\bin\Debug\SearchEngine.pdb
+C:\Users\Hadar\Desktop\SearchEngine\SearchEngine\bin\Debug\GloVe.dll
+C:\Users\Hadar\Desktop\SearchEngine\SearchEngine\obj\Debug\SearchEngine.csprojAssemblyReference.cache
+C:\Users\Hadar\Desktop\SearchEngine\SearchEngine\obj\Debug\SearchEngine.CountrySelectDialog.resources
+C:\Users\Hadar\Desktop\SearchEngine\SearchEngine\obj\Debug\SearchEngine.DictionaryDialog.resources
+C:\Users\Hadar\Desktop\SearchEngine\SearchEngine\obj\Debug\SearchEngine.SearchResults.resources
+C:\Users\Hadar\Desktop\SearchEngine\SearchEngine\obj\Debug\SearchEngine.ShowReturnedDocuments.resources
+C:\Users\Hadar\Desktop\SearchEngine\SearchEngine\obj\Debug\SearchEngine.StartDialog.resources
+C:\Users\Hadar\Desktop\SearchEngine\SearchEngine\obj\Debug\SearchEngine.Properties.Resources.resources
+C:\Users\Hadar\Desktop\SearchEngine\SearchEngine\obj\Debug\SearchEngine.ViewEntities.resources
+C:\Users\Hadar\Desktop\SearchEngine\SearchEngine\obj\Debug\SearchEngine.csproj.GenerateResource.cache
+C:\Users\Hadar\Desktop\SearchEngine\SearchEngine\obj\Debug\SearchEngine.csproj.CoreCompileInputs.cache
+C:\Users\Hadar\Desktop\SearchEngine\SearchEngine\obj\Debug\SearchEngine.csproj.CopyComplete
+C:\Users\Hadar\Desktop\SearchEngine\SearchEngine\obj\Debug\SearchEngine.exe
+C:\Users\Hadar\Desktop\SearchEngine\SearchEngine\obj\Debug\SearchEngine.pdb
